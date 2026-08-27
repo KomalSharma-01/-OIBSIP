@@ -107,6 +107,23 @@ The notebook compares all three models to identify their performance on unseen d
 * Prediction demo with probability scores.
 * Feature importance analysis.
 
+## Screenshots
+
+### Pairplot
+![Pairplot](screenshots/pairplot.png)
+
+### Boxplot
+![Boxplot](screenshots/boxplot.png)
+
+### Accuracy Comparison
+![Accuracy Comparison](screenshots/accuracy_comparison.png)
+
+### Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Decision Tree
+![Decision Tree](screenshots/decision_tree.png)
+
 ## 🔗 Key Learnings
 
 Through this project, I practiced:
