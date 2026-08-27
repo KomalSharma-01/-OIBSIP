@@ -48,6 +48,15 @@ multiple evaluation techniques.
 9. Make predictions with probability scores.
 10. Interpret feature importance using Decision Tree.
 
+### 🔗 How to Run
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install the required dependencies using:
+   pip install -r requirements.txt
+4. Open `Iris_Flower_Classification.ipynb` in Jupyter Notebook or Google Colab.
+5. Run all cells sequentially to reproduce the analysis and classification results.
+
 ## 🔗 Exploratory Data Analysis
 
 The notebook includes:
@@ -111,11 +120,6 @@ Through this project, I practiced:
 * Decision Tree interpretation
 * Predicting new samples with confidence scores
 
-### 🔗 How to Run
+## Author
 
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Install the required dependencies using:
-   pip install -r requirements.txt
-4. Open `Iris_Flower_Classification.ipynb` in Jupyter Notebook or Google Colab.
-5. Run all cells sequentially to reproduce the analysis and classification results.
+**Komal Sharma**  - Data Science Intern
