@@ -112,31 +112,29 @@ The notebook compares all three models to identify their performance on unseen d
 ### Pairplot
 ![Pairplot](screenshots/pairplot.png)
 
+
 ### Boxplot
 ![Boxplot](screenshots/boxplot.png)
+
 
 ### Accuracy Comparison
 ![Accuracy Comparison](screenshots/accuracy_comparison.png)
 
+
 ### Confusion Matrix
 ![Confusion Matrix](screenshots/confusion_matrix.png)
+
 
 ### Decision Tree
 ![Decision Tree](screenshots/decision_tree.png)
 
-## 🔗 Key Learnings
 
-Through this project, I practiced:
+## 🔗 ## Conclusion
 
-* Exploratory Data Analysis (EDA)
-* Data visualization with Seaborn and Matplotlib
-* Feature scaling using StandardScaler
-* Supervised Machine Learning
-* Model comparison and evaluation
-* Cross-validation
-* Decision Tree interpretation
-* Predicting new samples with confidence scores
+Three machine learning models—Logistic Regression, K-Nearest Neighbors (KNN), and Decision Tree—were trained to classify Iris flowers into Setosa, Versicolor, and Virginica.
+The analysis showed that **petal length and petal width were the most discriminative features**, providing clearer separation between the species than the sepal measurements.
+All three models achieved **100% accuracy on the test set**, while 5-fold cross-validation provided a more robust comparison, with **KNN showing the highest average performance with low variation**. Overall, this project demonstrates how Exploratory Data Analysis, feature analysis, preprocessing, and supervised machine learning can be combined to build an effective classification model.
 
 ## Author
 
-**Komal Sharma**  - Data Science Intern
+**Komal Sharma**  - Data Science Intern at Oasis Infobyte 
