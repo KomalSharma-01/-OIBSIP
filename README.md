@@ -10,7 +10,6 @@ feature scaling, model training, evaluation, cross-validation, and prediction.
 ## 🔗 Project Summary
 
 The objective of this project is to predict the species of an Iris flower based on four numerical features:
-
 * Sepal Length
 * Sepal Width
 * Petal Length
@@ -20,7 +19,6 @@ The notebook demonstrates how different classification algorithms perform on the
 multiple evaluation techniques.
 
 ## 🔗 Dataset
-
 * **Source:** Scikit-learn `load_iris()`
 * **Total Samples:** 150
 * **Features:** 4 numerical features
@@ -60,7 +58,6 @@ multiple evaluation techniques.
 ## 🔗 Exploratory Data Analysis
 
 The notebook includes:
-
 * Dataset overview
 * Statistical summary
 * Pairplot visualization
@@ -69,10 +66,10 @@ The notebook includes:
 
 These visualizations help understand feature relationships and class separation before training the models.
 
+
 ## 🔗 Machine Learning Models
 
 The following models were trained and compared:
-
 * Logistic Regression
 * K-Nearest Neighbors (KNN)
 * Decision Tree Classifier
@@ -88,7 +85,6 @@ The following models were trained and compared:
 ## 🔗 Model Evaluation
 
 The models were evaluated using:
-
 * Accuracy Score
 * Cross-Validation Score
 * Confusion Matrix
@@ -130,11 +126,9 @@ The notebook compares all three models to identify their performance on unseen d
 
 
 ## 🔗 ## Conclusion
-
 Three machine learning models—Logistic Regression, K-Nearest Neighbors (KNN), and Decision Tree—were trained to classify Iris flowers into Setosa, Versicolor, and Virginica.
 The analysis showed that **petal length and petal width were the most discriminative features**, providing clearer separation between the species than the sepal measurements.
 All three models achieved **100% accuracy on the test set**, while 5-fold cross-validation provided a more robust comparison, with **KNN showing the highest average performance with low variation**. Overall, this project demonstrates how Exploratory Data Analysis, feature analysis, preprocessing, and supervised machine learning can be combined to build an effective classification model.
 
 ## Author
-
 **Komal Sharma**  - Data Science Intern at Oasis Infobyte 
